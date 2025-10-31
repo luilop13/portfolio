@@ -1,0 +1,46 @@
+[project]
+name = "portfolio"
+version = "1.0.0"
+description = "Portfolio de publicaciones científicas"
+authors = [
+    {name = "Luis López", email = "tu.email@institucion.edu"}
+]
+requires-python = ">=3.9"
+dependencies = [
+    "sphinx>=7.0.0",
+    "sphinx-rtd-theme>=2.0.0",
+    "sphinxcontrib-bibtex>=2.6.0",
+    "sphinxjp-themes-basicstrap>=0.5.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.4.0",
+    "ruff>=0.1.0",
+    "pre-commit>=3.5.0",
+]
+
+# Sin build-system para proyectos de documentación
+# UV solo gestiona dependencias, no construye paquetes
+
+[tool.ruff]
+line-length = 88
+target-version = "py39"
+
+[tool.ruff.lint]
+select = [
+    "E",  # pycodestyle errors
+    "W",  # pycodestyle warnings
+    "F",  # pyflakes
+    "I",  # isort
+    "B",  # flake8-bugbear
+    "C4", # flake8-comprehensions
+    "UP", # pyupgrade
+]
+ignore = [
+    "E501", # line too long
+]
+
+[tool.ruff.format]
+quote-style = "double"
+indent-style = "space"
