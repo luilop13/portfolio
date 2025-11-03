@@ -48,7 +48,7 @@ Technical Skills
 
 **ML/AI:** PyTorch, RLlib, scikit-learn, TensorFlow, NumPy, ONNX, Weights & Biases
 
-**Tools & Frameworks:** Docker, Unity, Godot, Simulink, LabVIEW, SQL
+**Tools & Frameworks:** Docker, Git, Unity, Godot, Simulink, LaTeX, SQL, LabVIEW
 
 **CAD/PCB:** Eagle PCB, Autodesk Inventor, Fusion 360, AutoCAD, Proteus, PSpice
 
