@@ -170,8 +170,8 @@ great importance to the LNF final users:
   93.75%.
 
 This work has contributed to the `Plasma 2025 <https://plasma2025.ipplm.pl/wp-content/uploads/2025/09/Agenda_PLASMA2025.pdf>`_  – International Conference on Research 
-and Application of Plasmas. The title of the contribution is: Recognition of two patterns of ion-temperature profiles in the TJ-II stellarator after 
-the upgrade of a multichannel spectrometer.
+and Application of Plasmas. The title of the contribution is "Recognition of two patterns of ion-temperature profiles in the TJ-II stellarator after 
+the upgrade of a multichannel spectrometer", which is the first conference paper I have participated in :cite:`plasma2025`.
 
 Test-bench Design for Silicon Strip Radiation Detectors
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
