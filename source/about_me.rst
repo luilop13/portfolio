@@ -12,10 +12,10 @@ Personal Information
 Professional Profile
 --------------------
 
-Machine Learning Engineer with 2.5 years of overall experience in defense systems, radar technology, 
-and applied machine learning. Currently specializing in Deep Reinforcement Learning at Indra 
-with a proven track record in building production-ready ML solutions, from high-fidelity Unity 
-simulations to ONNX/Docker deployments ensuring sim-to-sim portability.
+Machine Learning Engineer with 3+ years of experience in autonomous systems, 
+scientific software, and applied machine learning. Currently specializing in 
+Deep Reinforcement Learning at Indra, developing high-performance multi-agent 
+simulation environments and scalable RL pipelines using Unity DOTS, RLlib, Docker, and ONNX.
 
 Previously designed and specified critical radar systems deployed across Germany's national 
 airspace (`€100M+ DFS contract <https://www.indracompany.com/en/noticia/indra-revamps-germanys-entire-air-surveillance-network-new-art-radars-ensure-safer-digital>`_), including fault detection logic and algorithms managing 
@@ -81,9 +81,9 @@ Machine Learning Engineer @ Indra
 
 **Period:** March 2025 - Present
 
-* Implemented and tuned Deep Reinforcement Learning algorithms (PPO and SAC) in Python for an airborne radar search-and-track mission, enabling the radar to autonomously scan and follow areas of interest in real time.
-* Built a high-fidelity Unity simulation environment to validate DRL agents under realistic flight and sensor conditions, using C#.
-* Designed novel zone-tracking reward functions and mathematical performance metrics, providing a quantitative framework for benchmarking and comparing alternative DRL strategies.
+* Architected and implemented a high-performance vectorized simulation environment in Unity DOTS for scalable multi-agent Deep Reinforcement Learning.
+* Implemented and tuned PPO and SAC agents in Python using RLlib for multi-sensor perception under partially observable environments.
+* Designed reward functions and mathematical performance metrics, providing a quantitative framework for benchmarking and comparing alternative DRL strategies.
 * Deployed DRL models into production using ONNX and Docker, ensuring portability across different simulation environments (sim-to-sim).
 
 Systems Engineer @ Indra
